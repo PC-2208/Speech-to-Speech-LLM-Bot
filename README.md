@@ -1,6 +1,3 @@
-# TenserGo-Assessement
-Generate a Speech- to-Speech LLM Bot using technologies cv2, pyttsx3, speech_recognition, threading, time.
-
 # Speech-to-Speech LLM Bot
 
 This repository contains a Speech-to-Speech LLM bot that leverages computer vision, text-to-speech, and speech recognition to interact with users. The bot captures video and audio from the user, recognizes the spoken words, and responds by repeating the recognized words. The bot operates within a 3-second window to capture and process the input.
